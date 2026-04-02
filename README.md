@@ -54,11 +54,11 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 <p align="center">
   <a href="https://github.com/XdKing2">
-    <img src="https://github.com/XdKing2.png" width="200" height="200" alt="Malvin King"/>
+    <img src="https://files.catbox.moe/iw058n.jpg" width="200" height="200" alt="X PRIME"/>
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/263780166288)
+📬 [`Contact on WhatsApp`](https://wa.me/917602624961)
 
 ---
 
