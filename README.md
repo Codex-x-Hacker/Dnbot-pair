@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 X PRIME-Session-Generator
 
 ## 📊 Visitor Counter
 
